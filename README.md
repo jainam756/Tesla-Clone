@@ -1,5 +1,6 @@
 # React + Vite
-
+To run the project: write "npm run dev" in cmd 
+It is fully responsive web application.
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
